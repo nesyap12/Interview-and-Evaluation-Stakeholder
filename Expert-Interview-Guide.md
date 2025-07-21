@@ -1,0 +1,87 @@
+# Expert Interview Guide
+
+## Introduction to the Experts
+
+Briefly introduce the study’s purpose and objectives, thank the expert for their time, and confirm consent for recording and confidentiality/anonymity.
+
+*"As discussed, this interview aims to complement our traceability system development and stakeholder analysis for a blockchain-based model in Indonesia’s palm oil export sector. We are particularly interested in your expert insights regarding current practices, technological readiness, regulatory alignment, and potential adoption of the proposed system."*
+
+*"This interview will be recorded with your consent, and your responses will be kept confidential and anonymized. Please feel free to share as much as you are comfortable with."*
+
+---
+
+## Section 1: General Perceptions and Traceability Practices
+
+- From your perspective, how traceable are the palm oil products you manage, particularly from the plantation to export?  
+  *Probe: Can you verify the product’s origin at each stage?*
+
+- What are the main barriers to sharing data with other stakeholders in the supply chain?  
+  *Probe: Are there issues of trust, compatibility, or fear of exposure?*
+
+- How do you validate data from upstream or downstream parties?
+
+- What are the biggest operational or logistical challenges you face in managing supply chain activities?
+
+- How is traceability data typically collected and recorded in your daily operations (e.g., manual, semi-digital, digital)?
+
+---
+
+## Section 2: Certification and Regulatory Alignment
+
+- Have you experienced audits for RSPO or ISPO certification? What challenges emerged during the process?
+
+- Do you think current traceability systems are sufficient to comply with export regulations, such as EUDR?
+
+- How familiar are you with the EUDR regulation and its potential impact on your export operations?  
+  *Probe: Have you received any preparation or guidance related to this regulation?*
+
+- In your opinion, how important is system integration with existing certification schemes like RSPO and ISPO?
+
+---
+
+## Section 3: Digital Tools and Blockchain Feasibility
+
+- What types of digital tools have you used (if any) to support certification, tracking, or operations?
+
+- If a blockchain-based traceability system were introduced, what benefits would you anticipate?  
+  *Probe: Are you most interested in audit efficiency, data accuracy, or export facilitation?*
+
+- What concerns do you have about using blockchain technology for traceability?  
+  *Probe: Could issues like internet access, usability, or cost become barriers?*
+
+- Do smallholder farmers in your area have the capacity to use digital traceability tools?
+
+- What kind of technical support or training would be necessary to ensure successful adoption?
+
+---
+
+## Section 4: Validation and Refinement of System Constructs
+
+- We developed a blockchain-based traceability architecture that integrates both internal and external tracking mechanisms. From your operational perspective, does this architecture align with real-world practices and responsibilities in the palm oil supply chain? Are there roles or functions that should be revised or added?
+
+- We designed platform features such as role-based access, immutable logs, and certification-linked QR verification based on observed challenges in traceability. Do these functionalities address your pain points effectively? Are there specific features you think would be more useful?
+
+- We categorized users into key actor roles, such as data submitters, validators, and auditors to define permission levels. Does this reflect the operational reality you face in your organization?
+
+---
+
+## Section 5: Strategic Recommendations and Adoption Enablers
+
+- What are the critical success factors that could ensure effective implementation of a blockchain-based traceability system?
+
+- Who should have access to traceability data, and how should access control be managed?  
+  *Probe: Should sensitive data be limited to certain actors?*
+
+- What kinds of support—regulatory, technical, financial—would help encourage adoption of such a system?
+
+- What do you see as realistic first steps or pilot areas for introducing this system in Indonesia?
+
+---
+
+## Concluding Questions
+
+- Are there any additional concerns, suggestions, or insights related to traceability, certification, or blockchain adoption that we haven’t discussed?
+
+- Do you have any final recommendations for improving this study or future research?
+
+*(Thank the interviewer for their time and valuable insights.)*
