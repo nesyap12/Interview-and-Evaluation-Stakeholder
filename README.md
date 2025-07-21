@@ -6,10 +6,10 @@ This repository contains the core components of a qualitative research and syste
 
 ## 📦 Contents
 
-- **expert_interview_guide.md**  
+- **Expert-Interview-Guide.md**  
   A semi-structured guide for expert interviews with palm oil supply chain actors (farmers, mills, refineries, regulators, exporters, manufactures, and retailers).
 
-- **evaluation_questionnaire.md**  
+- **Evaluation-Questionnaire.md**  
   Likert-scale evaluation from 30 stakeholders covering perceptions of system usability, trust, and regulatory support.
 
 - **StakeholderRegistry.sol**  
